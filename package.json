@@ -1,11 +1,11 @@
 {
-  "name": "nodemysqlcrudapi",
+  "name": "nodemysqlpropertyapi",
   "version": "1.0.0",
-  "description": "Node MySQL curd API",
+  "description": "Node MySQL property API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index"
+    "start": "index"
   },
   "author": "",
   "license": "ISC",
